@@ -1,0 +1,8 @@
+eventlet==0.21.0
+mysql==0.0.1
+MySQL-python==1.2.5
+redis==2.10.6
+requests==2.18.4
+Pillow==4.3.0
+tomorrow==0.2.4
+dateutils==0.6.6
